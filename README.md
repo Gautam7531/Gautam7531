@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-<img align="right" alt="coding">width="400'src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fbusinessman-working-on-computer-5644420&psig=AOvVaw0gvB1iEs5BV9Gqp0XcvvmT&ust=1729055839196000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi80KnRj4kDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding">width="400'src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZHNBL_zznudXwwXglBeFGZ-frhpaZJtHeg&s">
 
 - 📫 How to reach me **gautam22122004@gmail.com**
 
